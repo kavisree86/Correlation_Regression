@@ -57,10 +57,9 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 
+# Output 
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/a02776ad-19fe-4ec9-9560-49bc1bb55867" />
 
 # Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
-
-# Output 
-<img width="420" alt="image" src="https://github.com/user-attachments/assets/a02776ad-19fe-4ec9-9560-49bc1bb55867" />
